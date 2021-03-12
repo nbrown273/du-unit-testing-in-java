@@ -1,4 +1,4 @@
-package com.daugherty;
+package com.daugherty.testing.basics;
 
 public class Trivial {
     @Override

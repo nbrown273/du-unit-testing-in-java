@@ -1,4 +1,4 @@
-package com.daugherty;
+package com.daugherty.testing.basics;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
